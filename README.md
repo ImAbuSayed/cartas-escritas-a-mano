@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus cartas escritas a mano, baby, me tienen perdiendo el control
+> Leyendo tu nombre con luces de neón, bebiéndome todo el alcohol
+> Tú eres la musa de mis madrugadas, mi reina, mi eclipse de sol
+> Ven, sube al asiento, cerramos los vidrios y vamos rompiendo el reloj.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
