@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cartas-escritas-a-mano/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Cartas escritas a mano](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cartas-escritas-a-mano/) |
+| **Get License** | [Official Music Licensing for Cartas escritas a mano](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cartas-escritas-a-mano/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a287df535b0d1dfa0699e348e31ea310c00b4ac92404e20ae6a53dfcfe9bf488` |
 | **Timestamp** | June 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

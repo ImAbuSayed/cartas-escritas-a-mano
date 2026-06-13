@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Cartas escritas a mano
+
+This log tracks the cryptographic history and versioning for the song **Cartas escritas a mano** (cartas-escritas-a-mano).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T19:26:12.216063 | `v1` | `a287df535b0d1dfa0699e348e31ea310c00b4ac92404e20ae6a53dfcfe9bf488` | `fd079d8edc3c4b4e56ab8a198f9d1388d69ae6be5ba0185fdd87eeadffabdf07` | `2026-06-13_cartas-escritas-a-mano-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
